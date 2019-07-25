@@ -36,13 +36,13 @@ background_color[背景颜色]
 var config={
 
     'language_type':2,
-    'font_color':'#7F7F7F',
-    'pointer_color':'#000000',
+    'font_color':'#4bb4ff',
+    'pointer_color':'#ff6beb',
 
     'sound':1,
     'sound_name':'bg.mp3',
 
-    'background_style':1,
+    'background_style':0,
     'background_picture':'huatong.gif',
     'background_video':'3.mp4',
     'background_color':'#000000',
