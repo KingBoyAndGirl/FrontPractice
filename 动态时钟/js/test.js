@@ -20,7 +20,7 @@ $(document).ready(function () {
 
     if(config.sound)
     {
-        var ele="<audio controls loop autoplay><source src='sound/"+config.sound_name+"'></audio>"
+        var ele="<audio controls loop ><source src='sound/"+config.sound_name+"'></audio>"
         $("body").append(ele);
         //$("audio source").attr('src','sound/'+config.sound_name);
         //$("audio").css("display","block");

@@ -40,7 +40,7 @@ var config={
     'pointer_color':'#ff6beb',
 
     'sound':1,
-    'sound_name':'bg.mp3',
+    'sound_name':'Mykool - Ikiru.mp3',
 
     'background_style':1,
     'background_picture':'2.jpg',
