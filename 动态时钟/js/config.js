@@ -42,8 +42,8 @@ var config={
     'sound':1,
     'sound_name':'bg.mp3',
 
-    'background_style':0,
-    'background_picture':'huatong.gif',
-    'background_video':'3.mp4',
+    'background_style':1,
+    'background_picture':'2.jpg',
+    'background_video':'12.28.mp4',
     'background_color':'#000000',
 }
